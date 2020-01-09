@@ -46,7 +46,7 @@ wifi:
   
 #------- WIFI AP配置 -------
   ap:
-    ssid: $device_name
+    ssid: dc1
     password: "1234567890"
 #对应的管理IP地址为192.168.4.1
 captive_portal:
