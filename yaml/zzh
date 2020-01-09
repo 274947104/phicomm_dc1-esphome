@@ -87,6 +87,7 @@ cat9554:
   #address: 0x20
   irq_pin: GPIO4
 
+
 uart:
   rx_pin: GPIO13
   baud_rate: 4800
