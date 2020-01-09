@@ -1,5 +1,5 @@
 esphome:
-  name: dc12
+  name: dc1
   platform: ESP8266
   board: $board_model
   #状态恢复保持
