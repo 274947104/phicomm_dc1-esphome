@@ -5,6 +5,7 @@ esphome:
   #状态恢复保持
   esp8266_restore_from_flash: yes
 
+
 #----------------------------------------------------
   #指定编译临时文件存放位置
   build_path: build/$device_name
